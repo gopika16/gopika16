@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gopika16
 - 👀 I’m interested in Practical_implementation
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning different python frameworks & javascript
 - 📫 Response_model= gopika16aug@gmail.com
 - or DM_me: https://www.linkedin.com/in/gopika16/
 
