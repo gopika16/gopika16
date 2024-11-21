@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gopika16
 - 👀 I'm a full stack developer
 - 🌱 I work on Angular, Node.js and .Net Core.
-- 🌱 I’m currently learning flutter.
-- 📫 Response_model= gopika16aug@gmail.com
+- 🌱 I’m currently learning elixir.
+- 📫 All techs I've worked with : Python , ELM , Elixir , Javascript , Angular , Node.js and .Net Core.
 - or DM_me: https://www.linkedin.com/in/gopika16/
 
 <!---
