@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gopika16
+- 👋 Hi, I’m Gopika
 - 👀 I'm a full stack developer
-- 🌱 I work on Angular, Node.js and .Net Core.
-- 🌱 I’m currently learning elixir.
-- 📫 All techs I've worked with : Python , ELM , Elixir , Javascript , Angular , Node.js and .Net Core.
+- 🌱 I work on Angular, Node.js, Elixir and .Net Core.
+- 💞️ I’m looking to collaborate on >>Opensource_projects
+- 📫 Other techs I've worked with : Python, ELM, Javascript, Typescript and sql.
 - or DM_me: https://www.linkedin.com/in/gopika16/
 
 <!---
